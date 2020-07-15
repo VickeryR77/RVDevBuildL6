@@ -1,0 +1,13 @@
+C:\Users\RVICKERY\source\repos\ReverseStacker\bin\Debug\netcoreapp3.1\ReverseStacker.exe
+C:\Users\RVICKERY\source\repos\ReverseStacker\bin\Debug\netcoreapp3.1\ReverseStacker.deps.json
+C:\Users\RVICKERY\source\repos\ReverseStacker\bin\Debug\netcoreapp3.1\ReverseStacker.runtimeconfig.json
+C:\Users\RVICKERY\source\repos\ReverseStacker\bin\Debug\netcoreapp3.1\ReverseStacker.runtimeconfig.dev.json
+C:\Users\RVICKERY\source\repos\ReverseStacker\bin\Debug\netcoreapp3.1\ReverseStacker.dll
+C:\Users\RVICKERY\source\repos\ReverseStacker\bin\Debug\netcoreapp3.1\ReverseStacker.pdb
+C:\Users\RVICKERY\source\repos\ReverseStacker\obj\Debug\netcoreapp3.1\ReverseStacker.AssemblyInfoInputs.cache
+C:\Users\RVICKERY\source\repos\ReverseStacker\obj\Debug\netcoreapp3.1\ReverseStacker.AssemblyInfo.cs
+C:\Users\RVICKERY\source\repos\ReverseStacker\obj\Debug\netcoreapp3.1\ReverseStacker.csproj.CoreCompileInputs.cache
+C:\Users\RVICKERY\source\repos\ReverseStacker\obj\Debug\netcoreapp3.1\ReverseStacker.dll
+C:\Users\RVICKERY\source\repos\ReverseStacker\obj\Debug\netcoreapp3.1\ReverseStacker.pdb
+C:\Users\RVICKERY\source\repos\ReverseStacker\obj\Debug\netcoreapp3.1\ReverseStacker.genruntimeconfig.cache
+C:\Users\RVICKERY\source\repos\ReverseStacker\obj\Debug\netcoreapp3.1\ReverseStacker.csprojAssemblyReference.cache
